@@ -1,0 +1,3777 @@
+model_id,model,brand_id
+0,Barricade,0
+1,Barricade Tour,0
+2,Feather,0
+3,Response,0
+4,Asics 109,1
+5,Asics 116,1
+6,Asics 125,1
+7,BZ 100,1
+8,M3 Control,2
+9,M3 Power,2
+10,M5,2
+11,Aero 112,3
+12,Aero Blast,3
+13,Aero Storm,3
+14,Aero Storm GT,3
+15,Aero Storm Tour GT,3
+16,Aero Tour MP,3
+17,Aero Tour OS,3
+18,AeroPro Control Plus,3
+19,AeroPro Drive 2013,3
+20,AeroPro Drive Cortex,3
+21,AeroPro Drive GT,3
+22,AeroPro Drive GT Plus,3
+23,AeroPro Drive GT Plus / 2013,3
+24,AeroPro Drive Plus,3
+25,AeroPro Lite GT,3
+26,AeroPro Lite/2013,3
+27,AeroPro Team GT,3
+28,AeroPro Team GT/2013,3
+29,Drive Z 110,3
+30,Drive Z 110 2009,3
+31,Drive Z 118,3
+32,Drive Z 118 2009,3
+33,Drive Z Lite,3
+34,Play Pure Drive,3
+35,Pure Aero,3
+36,Pure Aero (2019),3
+37,Pure Aero 2023,3
+38,Pure Aero 98 2023,3
+39,Pure Aero Lite,3
+40,Pure Aero Lite (2019),3
+41,Pure Aero Lite 2023,3
+42,Pure Aero Plus,3
+43,Pure Aero Plus (2019),3
+44,Pure Aero Plus 2023,3
+45,Pure Aero Team,3
+46,Pure Aero Team (2019),3
+47,Pure Aero Team 2023,3
+48,Pure Aero Tour,3
+49,Pure Aero Tour (2019),3
+50,Pure Aero VS,3
+51,Pure Aero VS Stars and Stripes,3
+52,Pure Aero VS Tour,3
+53,Pure Control,3
+54,Pure Control 95,3
+55,Pure Control 95+,3
+56,Pure Control Tour,3
+57,Pure Control Tour+,3
+58,Pure Drive (2012),3
+59,Pure Drive (2021),3
+60,Pure Drive 107,3
+61,Pure Drive 107 (2012),3
+62,Pure Drive 107 (2018),3
+63,Pure Drive 107 2021,3
+64,Pure Drive 107 GT 2009,3
+65,Pure Drive 110,3
+66,Pure Drive 110 (2018),3
+67,Pure Drive 110 2021,3
+68,Pure Drive 2015,3
+69,Pure Drive 2017,3
+70,Pure Drive GT,3
+71,Pure Drive GT Plus,3
+72,Pure Drive Lite,3
+73,Pure Drive Lite,3
+74,Pure Drive Lite (2018),3
+75,Pure Drive Lite 2021,3
+76,Pure Drive Lite Wimbledon,3
+77,Pure Drive Plus,3
+78,Pure Drive Plus,3
+79,Pure Drive Plus (2018),3
+80,Pure Drive Plus 2021,3
+81,Pure Drive Roddick,3
+82,Pure Drive Roddick (2012),3
+83,Pure Drive Roddick GT,3
+84,Pure Drive Roddick GT Plus,3
+85,Pure Drive Roddick Plus,3
+86,Pure Drive Roddick Plus (2012),3
+87,Pure Drive Team,3
+88,Pure Drive Team 2021,3
+89,Pure Drive Team Plus,3
+90,Pure Drive Tour,3
+91,Pure Drive Tour (2018),3
+92,Pure Drive Tour 2021,3
+93,Pure Drive Tour Plus,3
+94,Pure Drive Tour Plus (2018),3
+95,Pure Drive VS,3
+96,Pure Drive Wimbledon,3
+97,Pure Stike 98 18x20 2024,3
+98,Pure Storm,3
+99,Pure Storm GT 2009,3
+100,Pure Storm GT 2011,3
+101,Pure Storm Ltd GT (NEW),3
+102,Pure Storm Ltd. GT 2009,3
+103,Pure Storm Team GT,3
+104,Pure Storm Tour,3
+105,Pure Storm Tour GT,3
+106,Pure Storm Tour GT 2009,3
+107,Pure Storm Tour Plus,3
+108,Pure Storm Tour Plus GT,3
+109,Pure Storm Tour+ GT 2009,3
+110,Pure Strike (18x20),3
+111,Pure Strike 100,3
+112,Pure Strike 100 (2016),3
+113,Pure Strike 100 16x20 2024,3
+114,Pure Strike 100 2024,3
+115,Pure Strike 100 3rd Gen,3
+116,Pure Strike 100 Team,3
+117,Pure Strike 103,3
+118,Pure Strike 16x19,3
+119,Pure Strike 16x19 (2016),3
+120,Pure Strike 16x19 3rd Gen,3
+121,Pure Strike 18x20,3
+122,Pure Strike 18x20 3rd Gen,3
+123,Pure Strike 97,3
+124,Pure Strike 98 16x19 2024,3
+125,Pure Strike Team 2024,3
+126,Pure Strike Tour,3
+127,Pure Strike Tour 3rd Gen,3
+128,Pure Strike VS,3
+129,Pure Strike VS,3
+130,Pure Strike VS Tour,3
+131,VS NCT Control,3
+132,XS 102,3
+133,XS 102,3
+134,XS 105,3
+135,XS 109,3
+136,Y 105 Smart Grip,3
+137,Y 109 Smart Grip,3
+138,Y 112,3
+139,Y 112 LTD,3
+140,Y 118,3
+141,Becker Becker 11 (heavy),4
+142,Becker Becker 11 Special Edition 98,4
+143,Becker Boris Becker 11 Light,4
+144,Becker Delta Core 1,4
+145,Becker Delta Core 3,4
+146,Becker Delta Core Legend,4
+147,Becker Delta Core London,4
+148,Becker Delta Core London Tour,4
+149,Becker Delta Core Melbourne,4
+150,Becker Delta Core Pro,4
+151,Formula 100,5
+152,Formula Lite 100,5
+153,Formula OS Ext,5
+154,Pro One,5
+155,Pro One 97 18x20,5
+156,Pro One OS,5
+157,Pro One OS Ext,5
+158,X-Black 94,5
+159,X-Black 99,5
+160,X-Blue 94,5
+161,X-Blue 99,5
+162,X-Dark Red 94,5
+163,X-Dual Core Platinum 94,5
+164,X-Dual Core Silver 99,5
+165,X-Dual Gold 94,5
+166,X-Dual Silver Lite 99,5
+167,X-Orange 99,5
+168,X-P Dual Lite White 102,5
+169,X-Red 94,5
+170,X-Red 99,5
+171,X-White 99,5
+172,X-Yellow 99,5
+173,Aerogel 100,6
+174,Aerogel 1000,6
+175,Aerogel 2Hundred,6
+176,Aerogel 3Hundred,6
+177,Aerogel 4D 100 (1Hundred),6
+178,Aerogel 4D 200 (2Hundred),6
+179,Aerogel 4D 200 Tour (2Hundred),6
+180,Aerogel 4D 300 (3Hundred),6
+181,Aerogel 4D 300 (3Hundred) Tour,6
+182,Aerogel 4D 5 Fifty Lite,6
+183,Aerogel 4D 500 (5Hundred),6
+184,Aerogel 4D 500 (5Hundred) Tour,6
+185,Aerogel 4D 700 (7Hundred),6
+186,Aerogel 4D Super-Lite,6
+187,Aerogel 5Hundred,6
+188,Aerogel 5Hundred Tour,6
+189,Aerogel 600 MP,6
+190,Aerogel 7Hundred,6
+191,Aerogel 9Hundred OS,6
+192,Aerogel Rush,6
+193,Aerogel Smoke,6
+194,Aerogel Titan,6
+195,BioFibre F3.1 Tour,6
+196,BioFibre M2.1,6
+197,BioFibre M3.1,6
+198,BioFibre S8.1 Lite,6
+199,Biomimetic 100,6
+200,Biomimetic 200,6
+201,Biomimetic 200 Lite,6
+202,Biomimetic 200 Plus,6
+203,Biomimetic 200 Tour,6
+204,Biomimetic 300,6
+205,Biomimetic 300 Tour,6
+206,Biomimetic 400,6
+207,Biomimetic 400 Lite,6
+208,Biomimetic 400 Tour,6
+209,Biomimetic 500,6
+210,Biomimetic 500 Plus,6
+211,Biomimetic 500 Tour,6
+212,Biomimetic 600,6
+213,Biomimetic 600 Lite,6
+214,Biomimetic 600 Tour,6
+215,Biomimetic Black Widow,6
+216,Biomimetic F 3.0 Tour,6
+217,Biomimetic F2.0 Tour,6
+218,Biomimetic F5.0 Tour,6
+219,Biomimetic M 3.0,6
+220,Biomimetic M 6.0,6
+221,Biomimetic M5.0,6
+222,Biomimetic Max 200G,6
+223,Biomimetic S 2.0,6
+224,Biomimetic S 3.0 Lite,6
+225,Biomimetic S 6.0,6
+226,Biomimetic S 6.0 Lite,6
+227,Biomimetic S 7.0,6
+228,Biomimetic S 8.0 Lite,6
+229,Biomimetic S5.0 Lite,6
+230,CX 200,6
+231,CX 200,6
+232,CX 200 OS,6
+233,CX 200 OS,6
+234,CX 200 Tour 16x19,6
+235,CX 200 Tour 18x20,6
+236,CX 400,6
+237,CX 400,6
+238,CX 400 Tour,6
+239,CX 400 Tour,6
+240,F4.0 Tour,6
+241,FX 500,6
+242,FX 500 2023,6
+243,FX 500 LS,6
+244,FX 500 LS 2023,6
+245,FX 500 Lite,6
+246,FX 500 Lite 2023,6
+247,FX 500 Tour,6
+248,FX 500 Tour 2023,6
+249,FX 700,6
+250,FX 700 2023,6
+251,Force 100,6
+252,Force 100 Tour,6
+253,Force 105,6
+254,Force 98,6
+255,Force 98 Tour,6
+256,M-Fil 200,6
+257,M-Fil 300,6
+258,M-Fil 400,6
+259,M-Fil 800,6
+260,M4.0,6
+261,Precision 100,6
+262,Precision 100 Tour,6
+263,Precision 98,6
+264,Precision 98 Tour,6
+265,S4.0 Lite,6
+266,SX 300,6
+267,SX 300 Tour,6
+268,SX300,6
+269,SX300 Tour,6
+270,Srixon CX 200,6
+271,Srixon CX 200 LS,6
+272,Srixon CX 200 Tour (16x19),6
+273,Srixon CX 200 Tour (18x20),6
+274,Srixon CX 200+,6
+275,Srixon CX 400,6
+276,Srixon Revo CV 3.0,6
+277,Srixon Revo CV 3.0 F,6
+278,Srixon Revo CV 3.0 F LS,6
+279,Srixon Revo CV 3.0 F Tour,6
+280,Srixon Revo CV 5.0,6
+281,Srixon Revo CV 5.0 OS,6
+282,Srixon Revo CX 2.0,6
+283,Srixon Revo CX 2.0 LS,6
+284,Srixon Revo CX 4.0,6
+285,Srixon Revo CX Tour 18x20,6
+286,Srixon Revo CZ 100S,6
+287,Srixon Revo CZ 98D,6
+288,iDapt Force 100,6
+289,iDapt Force 100S,6
+290,iDapt Force 105,6
+291,iDapt Force 98,6
+292,M Comp 95,7
+293,M Pro Number One 98 Light,7
+294,M Pro Number One 98 SL,7
+295,Magnetic Tour ++ (heavy),7
+296,Progressor NT,7
+297,Big Bubba,8
+298,C-1,8
+299,C-2,8
+300,C-3,8
+301,C-4,8
+302,CP-1000,8
+303,CP-1200,8
+304,G250,8
+305,G260,8
+306,G310,8
+307,Ipex 2.0 OS,8
+308,RZR 100,8
+309,RZR 100T,8
+310,RZR 105,8
+311,RZR 110,8
+312,RZR 95,8
+313,RZR 98,8
+314,RZR 98 T,8
+315,T-5,8
+316,T-6,8
+317,T-7,8
+318,Tour 300X,8
+319,Tour 320X,8
+320,Tour 330X,8
+321,Tour 340X,8
+322,Tour 340X Team,8
+323,Airflow 1,9
+324,Airflow 3,9
+325,Airflow 3 Crossbow,9
+326,Airflow 5,9
+327,Airflow 5 Crossbow,9
+328,Airflow 7,9
+329,Airflow 7 Crossbow,9
+330,Boom MP 2022,9
+331,Boom MP 2024,9
+332,Boom Pro 2022,9
+333,Boom Pro 2024,9
+334,Boom Team 2024,9
+335,Crossbow 10,9
+336,Crossbow 2,9
+337,Crossbow 4,9
+338,Crossbow 6,9
+339,Crossbow 8,9
+340,Extreme MP 2022,9
+341,Extreme Tour 2022,9
+342,FXP Instinct Team MP,9
+343,FXP Radical Team,9
+344,Flexpoint 10,9
+345,Flexpoint 6 OS,9
+346,Flexpoint Heat MP,9
+347,Flexpoint Prestige Mid,9
+348,Flexpoint Prestige XL MP,9
+349,Flexpoint Radical MP,9
+350,Flexpoint Radical OS,9
+351,Graphene 360 Extreme Lite,9
+352,Graphene 360 Extreme MP,9
+353,Graphene 360 Extreme Pro,9
+354,Graphene 360 Instinct Lite,9
+355,Graphene 360 Instinct MP,9
+356,Graphene 360 Instinct PWR,9
+357,Graphene 360 Instinct S,9
+358,Graphene 360 Radical MP,9
+359,Graphene 360 Radical Pro,9
+360,Graphene 360 Radical S,9
+361,Graphene 360 Speed Lite,9
+362,Graphene 360 Speed MP,9
+363,Graphene 360 Speed MP Lite,9
+364,Graphene 360 Speed Pro,9
+365,Graphene 360+ Extreme Lite,9
+366,Graphene 360+ Extreme MP,9
+367,Graphene 360+ Extreme Nite MP,9
+368,Graphene 360+ Extreme Nite Tour,9
+369,Graphene 360+ Extreme S,9
+370,Graphene 360+ Extreme Tour,9
+371,Graphene 360+ Gravity Lite,9
+372,Graphene 360+ Gravity Lite 2021,9
+373,Graphene 360+ Gravity MP,9
+374,Graphene 360+ Gravity MP 2021,9
+375,Graphene 360+ Gravity MP Lite,9
+376,Graphene 360+ Gravity Pro,9
+377,Graphene 360+ Gravity Pro 2021,9
+378,Graphene 360+ Gravity S,9
+379,Graphene 360+ Gravity S 2021,9
+380,Graphene 360+ Gravity Tour,9
+381,Graphene 360+ Gravity Tour 2021,9
+382,Graphene 360+ Instinct Lite,9
+383,Graphene 360+ Instinct MP,9
+384,Graphene 360+ Instinct PWR,9
+385,Graphene 360+ Prestige Mid,9
+386,Graphene 360+ Prestige Midplus,9
+387,Graphene 360+ Prestige Pro,9
+388,Graphene 360+ Prestige Tour,9
+389,Graphene 360+ Radical MP,9
+390,Graphene 360+ Radical Pro,9
+391,Graphene 360+ Radical S,9
+392,Graphene 360+ Speed Lite,9
+393,Graphene 360+ Speed MP,9
+394,Graphene 360+ Speed MP (Black),9
+395,Graphene 360+ Speed MP Lite,9
+396,Graphene 360+ Speed PWR,9
+397,Graphene 360+ Speed Pro,9
+398,Graphene 360+ Speed Pro (Black),9
+399,Graphene 360+ Speed S,9
+400,Graphene Extreme Lite,9
+401,Graphene Extreme MP,9
+402,Graphene Extreme Pro,9
+403,Graphene Prestige Midplus,9
+404,Graphene Prestige Pro,9
+405,Graphene Prestige Rev Pro,9
+406,Graphene Prestige S,9
+407,Graphene Radical MP,9
+408,Graphene Radical Pro,9
+409,Graphene Radical Rev,9
+410,Graphene Radical S,9
+411,Graphene Touch Extreme Lite,9
+412,Graphene Touch Extreme MP,9
+413,Graphene Touch Instinct Lite,9
+414,Graphene Touch Instinct MP,9
+415,Graphene Touch Instinct PWR,9
+416,Graphene Touch Instinct S,9
+417,Graphene Touch Prestige Mid,9
+418,Graphene Touch Prestige Midplus,9
+419,Graphene Touch Prestige Pro,9
+420,Graphene Touch Prestige Tour,9
+421,Graphene Touch Radical MP,9
+422,Graphene Touch Radical MP Ltd.,9
+423,Graphene Touch Radical Pro,9
+424,Graphene Touch Radical S,9
+425,Graphene Touch Speed MP,9
+426,Graphene Touch Speed PWR,9
+427,Graphene Touch Speed Pro,9
+428,Graphene Touch Speed S,9
+429,Graphene XT Extreme Lite,9
+430,Graphene XT Extreme MP A,9
+431,Graphene XT Extreme Pro,9
+432,Graphene XT Instinct MP,9
+433,Graphene XT Instinct Rev Pro,9
+434,Graphene XT Instinct S,9
+435,Graphene XT Prestige Midplus,9
+436,Graphene XT Prestige Pro,9
+437,Graphene XT Prestige Rev Pro,9
+438,Graphene XT Prestige S,9
+439,Graphene XT Radical Lite,9
+440,Graphene XT Radical MP A,9
+441,Graphene XT Radical Pro,9
+442,Graphene XT Radical S,9
+443,Graphene XT Speed MPA,9
+444,Graphene XT Speed Pro,9
+445,Graphene XT Speed Rev Pro,9
+446,Graphene XT Speed S,9
+447,Liquid Metal 4 OS,9
+448,Liquid Metal 8 OS,9
+449,Liquid Metal Instinct MP,9
+450,Liquid Metal Radical MP,9
+451,Liquid Metal Radical OS,9
+452,Liquidmetal Prestige Mid,9
+453,MXG 3,9
+454,MXG 5,9
+455,Metallix 10,9
+456,Metallix 2,9
+457,Metallix 4 OS,9
+458,Metallix 6,9
+459,MicroGEL Extreme Pro 2009,9
+460,MicroGEL Extreme Pro MP,9
+461,MicroGEL Radical MP,9
+462,MicroGEL Radical OS,9
+463,MicroGEL Radical Pro MP,9
+464,MicroGel Extreme Team,9
+465,Microgel Extreme MP 2009,9
+466,Microgel Extreme Team 2009,9
+467,Microgel Instinct MP,9
+468,Microgel Prestige MP,9
+469,Microgel Prestige Mid,9
+470,Microgel Prestige Pro,9
+471,Microgel Radical Team MP,9
+472,MxG1,9
+473,MxG7,9
+474,Prestige Classic 2.0,9
+475,Prestige MP 2021,9
+476,Prestige MP L 2023,9
+477,Prestige Pro 2021,9
+478,Prestige Pro 2023,9
+479,Prestige Tour 2021,9
+480,Prestige Tour 2023,9
+481,Pro Tour 2.0,9
+482,Protector,9
+483,Protector Midplus,9
+484,Radical MP 2023,9
+485,Radical Oversize Ltd.,9
+486,Radical Pro 2023,9
+487,Radical Team 2023,9
+488,Speed MP 2022,9
+489,Speed MP 2024,9
+490,Speed MP L 2024,9
+491,Speed Pro 2022,9
+492,Speed Pro 2024,9
+493,Speed Team 2024,9
+494,Titanium Ti.S6,9
+495,YOUTEK Extreme MP,9
+496,YOUTEK Extreme Pro,9
+497,YOUTEK Graphene Instinct MP,9
+498,YOUTEK Graphene Instinct PWR,9
+499,YOUTEK Graphene Instinct REV,9
+500,YOUTEK Graphene Instinct S,9
+501,YOUTEK Graphene Prestige PWR,9
+502,YOUTEK Graphene Speed MP,9
+503,YOUTEK Graphene Speed PRO,9
+504,YOUTEK Graphene Speed PWR,9
+505,YOUTEK Graphene Speed REV,9
+506,YOUTEK Graphene Speed S,9
+507,YOUTEK IG Extreme MP,9
+508,YOUTEK IG Extreme MP 2.0,9
+509,YOUTEK IG Extreme OS,9
+510,YOUTEK IG Extreme Pro,9
+511,YOUTEK IG Extreme Pro 2.0,9
+512,YOUTEK IG Extreme S 2.0,9
+513,YOUTEK IG Instinct,9
+514,YOUTEK IG Instinct S,9
+515,YOUTEK IG Prestige MP,9
+516,YOUTEK IG Prestige Mid,9
+517,YOUTEK IG Prestige Pro,9
+518,YOUTEK IG Prestige S,9
+519,YOUTEK IG Radical MP,9
+520,YOUTEK IG Radical OS,9
+521,YOUTEK IG Radical Pro,9
+522,YOUTEK IG Radical S,9
+523,YOUTEK IG Speed 16x19,9
+524,YOUTEK IG Speed 18x20,9
+525,YOUTEK IG Speed 300,9
+526,YOUTEK IG Speed Elite,9
+527,YOUTEK IG Speed Lite,9
+528,YOUTEK Instinct MP,9
+529,YOUTEK Mojo,9
+530,YOUTEK Prestige MP,9
+531,YOUTEK Prestige Mid,9
+532,YOUTEK Prestige Pro,9
+533,YOUTEK Radical Lite,9
+534,YOUTEK Radical MP,9
+535,YOUTEK Radical OS,9
+536,YOUTEK Radical Pro,9
+537,YOUTEK Speed 16x19,9
+538,YOUTEK Speed Elite,9
+539,YOUTEK Speed Lite,9
+540,YOUTEK Speed MP 18x20,9
+541,YOUTEK Speed Pro,9
+542,YOUTEK Star Five,9
+543,YOUTEK Star Six,9
+544,YOUTEK Star Three,9
+545,Black Star,10
+546,Red Star,10
+547,Tom's Machine,10
+548,L.20,11
+549,L.20L,11
+550,285,12
+551,300,12
+552,Tour 305,12
+553,Tour 315,12
+554,Spin Deeper 300g (14x19),13
+555,Spin Deeper 315g (14x19),13
+556,Turbine 275g,13
+557,Turbine 300g,13
+558,Finesse,14
+559,Nexus,14
+560,Raptor,14
+561,Speed,14
+562,X Fast Pro 100,14
+563,X Feel Pro 90 Vacuum,14
+564,X Feel Pro 95,14
+565,X Feel Tour,14
+566,X Force,14
+567,X Force Comp,14
+568,X Force Lite,14
+569,X Force Pro,14
+570,X Force Pro No. 1,14
+571,X Tour Pro 97,14
+572,Centric,15
+573,GRAND,15
+574,PRO,15
+575,ATS Textreme Tour 100 290,16
+576,ATS Textreme Tour 100 310,16
+577,ATS Textreme Tour 100P,16
+578,ATS Textreme Tour 95,16
+579,ATS Textreme Tour 98,16
+580,CTS Synergy DB26,16
+581,Classic Graphite 100 Longbody,16
+582,EXO3 Black,16
+583,EXO3 Black Team,16
+584,EXO3 Blue,16
+585,EXO3 Blue 110,16
+586,EXO3 Graphite 100 MP w/inserts,16
+587,EXO3 Graphite 93 Mid w/inserts,16
+588,EXO3 Hornet Midplus 100,16
+589,EXO3 Hybrid 100,16
+590,EXO3 Hybrid 104,16
+591,EXO3 Hybrid 110,16
+592,EXO3 Hybrid Gold 107,16
+593,EXO3 Hybrid Red 102,16
+594,EXO3 Ignite 95,16
+595,EXO3 Ignite Team 95,16
+596,EXO3 Rebel 95,16
+597,EXO3 Rebel 95 w/o inserts,16
+598,EXO3 Rebel 98,16
+599,EXO3 Rebel Team 95 w/o inserts,16
+600,EXO3 Rebel Team 98,16
+601,EXO3 Red,16
+602,EXO3 Red 105,16
+603,EXO3 Silver,16
+604,EXO3 Silver 115,16
+605,EXO3 Tour 100 (16x18),16
+606,EXO3 Tour 100 (18x20),16
+607,EXO3 Tour Lite 100,16
+608,EXO3 Warrior 100,16
+609,EXO3 Warrior DB Team 100,16
+610,EXO3 Warrior Team 100,16
+611,EXO3 White,16
+612,Graphite 100,16
+613,Graphite 107,16
+614,Graphite Classic (original) OS,16
+615,Hydrogen Random 300g,16
+616,Lightning 100,16
+617,Lightning 105,16
+618,Lightning 110,16
+619,O3 Hybrid Comp,16
+620,O3 Hybrid Hornet,16
+621,O3 Hybrid Lite,16
+622,O3 Hybrid Spectrum MP,16
+623,O3 Legacy 105 2024,16
+624,O3 Legacy 120 2024,16
+625,O3 Speedport Black Long Body,16
+626,O3 Speedport Black Team,16
+627,O3 Speedport Black w/Holes,16
+628,O3 Speedport Blue OS,16
+629,O3 Speedport Gold,16
+630,O3 Speedport Ozone Four,16
+631,O3 Speedport Ozone One,16
+632,O3 Speedport Platinum,16
+633,O3 Speedport Pro White MP,16
+634,O3 Speedport Red,16
+635,O3 Speedport Silver,16
+636,O3 Speedport Tour,16
+637,O3 Speedport Tour Demo,16
+638,O3 Tour MP,16
+639,O3 Tour Mid,16
+640,O3 Tour OS,16
+641,O3 White,16
+642,Original Graphite 107,16
+643,Ozone Pro Tour,16
+644,Ozone Tour MP,16
+645,Phantom 100,16
+646,Phantom 100G,16
+647,Phantom 100G LB,16
+648,Phantom 100P,16
+649,Phantom 100P 2024,16
+650,Phantom 100X 18x20,16
+651,Phantom 100X 18x20 2024,16
+652,Phantom 100X 290g,16
+653,Phantom 100X 290g 2024,16
+654,Phantom 100X 305g,16
+655,Phantom 100X 305g 2024,16
+656,Phantom 107G,16
+657,Phantom 107G 2024,16
+658,Phantom 93P (14x18),16
+659,Phantom 93P (18x20),16
+660,Phantom 97P,16
+661,Phantom O3 100X,16
+662,Phantom Pro 100,16
+663,Phantom Pro 100 (18x20),16
+664,Phantom Pro 100P,16
+665,Phantom Pro 93P,16
+666,Phantom Pro 93P (14x18),16
+667,Premier 105 ESP,16
+668,Premier 105L ESP,16
+669,Premier 115L ESP,16
+670,Response 97,16
+671,RipStick 280,16
+672,Synergy 98,16
+673,Textreme Beast 100,16
+674,Textreme Beast 98,16
+675,Textreme Beast O3 100,16
+676,Textreme Beast O3 104,16
+677,Textreme Beast O3 98,16
+678,Textreme Beast O3 98,16
+679,Textreme Beast Pro 100 LB,16
+680,Textreme Tour 100 (290) (2019),16
+681,Textreme Tour 100 (310) (2019),16
+682,Textreme Tour 100 L,16
+683,Textreme Tour 100 P,16
+684,Textreme Tour 100L (260) (2019),16
+685,Textreme Tour 100P (2019),16
+686,Textreme Tour 100T,16
+687,Textreme Tour 95,16
+688,Textreme Tour 95 (2019),16
+689,Textreme Warrior 100,16
+690,Textreme Warrior 100 ESP,16
+691,Textreme Warrior 100L,16
+692,Textreme Warrior 100T,16
+693,Textreme Warrior 107,16
+694,Textreme Warrior 107T,16
+695,Textreme Warror 107 L,16
+696,Tour 100 (16x18),16
+697,Tour 100 (18x20),16
+698,Tour 100T,16
+699,Tour 100T ESP,16
+700,Tour 95,16
+701,Tour 98,16
+702,Tour 98 ESP,16
+703,Tour Diablo,16
+704,Tour Diablo MP,16
+705,Tour Diablo MP,16
+706,Tour NXG Graphite MP,16
+707,Tour NXG Graphite Mid,16
+708,Tour NXG Graphite OS,16
+709,Tour Pro 100,16
+710,Tour Pro 100 ESP,16
+711,Tour Pro 98,16
+712,Triple Threat Warrior OS,16
+713,Twistpower X100,16
+714,Twistpower X100 Tour,16
+715,Twistpower X105 (290g),16
+716,Twistpower X97 Tour,16
+717,Vortex 300g,16
+718,Vortex 310g,16
+719,Warrior 100,16
+720,Warrior 100 ESP,16
+721,Warrior 100 Pro,16
+722,Warrior 100L ESP,16
+723,Warrior Pro 100T ESP,16
+724,Black Ace (300),17
+725,Black Ace (315),17
+726,Black Ace 105,17
+727,Ionic Ki 10 MP,17
+728,Ionic Ki 10 PSE MP,17
+729,Ionic Ki 15,17
+730,Ionic Ki 15 260,17
+731,Ionic Ki 15 PSE (New),17
+732,Ionic Ki 20 (New),17
+733,Ionic Ki 20 PSE (New),17
+734,Ionic Ki 30,17
+735,Ionic Ki 30 (New),17
+736,Ionic Ki 5,17
+737,Ionic Ki 5 315,17
+738,Ionic Ki 5 PSE (New),17
+739,Ionic Ki 5x (New),17
+740,Ki 10,17
+741,Ki 10 (305) - 2018,17
+742,Ki 15 (260) - 2018,17
+743,Ki 15 (300) - 2018,17
+744,Ki 15 PSE,17
+745,Ki 5 (300) - 2018,17
+746,Ki 5 (320) - 2018,17
+747,Ki 5 280,17
+748,Ki 5 320,17
+749,Ki Black Ace Pro,17
+750,Ki Q+ 20 (2021),17
+751,Ki Q+ 5 Pro (2021),17
+752,Ki Q+ 5 Pro (310),17
+753,Ki Q+ Tour (315) (2019),17
+754,Ki Q+ Tour Pro (325),17
+755,Kinetic Pro 5G,17
+756,Kinetic Pro 7g,17
+757,Q15,17
+758,Q30,17
+759,Q5X Kinetic 100,17
+760,SQ Ltd Edition,17
+761,Pro Braided,18
+762,V100 Team,18
+763,V100 Tour,18
+764,V98 Team,18
+765,V98 Tour,18
+766,Blackout 300,19
+767,Blackout 300 XTD,19
+768,Pro 10,19
+769,Pro 8,19
+770,Protocol 300,19
+771,Protocol 325,19
+772,Whiteout 305,19
+773,Whiteout 305 18x20,19
+774,Whiteout 305 XTD,19
+775,Whiteout 305 XTD 18x20,19
+776,ATP TFight 280 XTC,20
+777,ATP TFight 295 XTC,20
+778,ATP TFight 300 XTC,20
+779,ATP TFight 305 XTC,20
+780,ATP TFight 315 XTC,20
+781,ATP TFight 320 XTC,20
+782,T-Flash PS 270,20
+783,T-Flash PS 285,20
+784,T-Flash PS 300,20
+785,TF40 18x20,20
+786,TF40 305,20
+787,TF40 305 16x19,20
+788,TF40 315,20
+789,TF40 315 16x19,20
+790,TFX1 300,20
+791,TFeel 305 MP XL,20
+792,TFght 300 RS,20
+793,TFight 255,20
+794,TFight 295 MP,20
+795,TFight 295 RS,20
+796,TFight 295 TP,20
+797,TFight 295 VO2 Max,20
+798,TFight 305 Dynacore,20
+799,TFight 305 RS,20
+800,TFight 305 VO2 Max,20
+801,TFight 315 Ltd. 16 Main,20
+802,TFight 315 Ltd. 18 Main,20
+803,TFight 315 RS,20
+804,TFight 320 (16x20),20
+805,TFight 320 (18x20),20
+806,TFight 320 VO2 Max,20
+807,TFight 325 VO2 Max,20
+808,TFight 325 XL VO2 Max,20
+809,TFight 335 MP (16x20),20
+810,TFight 335 MP (18x20),20
+811,TFight DC 300,20
+812,TFight DC 305,20
+813,TFight DC 315,20
+814,TFight DC 315 Ltd. (16x19),20
+815,TFight DC 315 Ltd. (18x20),20
+816,TFight DC 320,20
+817,TFight ISO 295,20
+818,TFight ISO 300,20
+819,TFight ISO 305,20
+820,TFight ISO 315,20
+821,TFlash 270 CES,20
+822,TFlash 270 OS,20
+823,TFlash 285 CES,20
+824,TFlash 290,20
+825,TFlash 290 VO2 Max,20
+826,TFlash 300 ATP,20
+827,TFlash 300 CES,20
+828,TFlash 300 Dynacore ATP,20
+829,TFlash 300 SpeedFlex,20
+830,TFlash 310 (16x19),20
+831,TFlash 310 (18x20),20
+832,TFlash 315 ATP,20
+833,TFlash 315 Dynacore ATP,20
+834,TFlash 315 SpeedFlex,20
+835,TFlash 315 VO2 Max,20
+836,TRebound 265 Pro,20
+837,TRebound 295 Pro,20
+838,TRebound 298 IGA,20
+839,BB1 OS,21
+840,Becker BB 10,21
+841,Becker BB5,21
+842,C10 EVO,21
+843,C10 Pro,21
+844,C10 Pro 2012,21
+845,Catapult 8 V-Engine,21
+846,Classic C10 Pro,21
+847,DNX 1 Power Arm,21
+848,DNX 10 Mid,21
+849,DNX 2 Ativa OS,21
+850,DNX 3,21
+851,DNX 4,21
+852,DNX 6 Ativa,21
+853,DNX 7,21
+854,DNX 8,21
+855,DNX 9,21
+856,Organix 1,21
+857,Organix 10 (295g),21
+858,Organix 10 (325),21
+859,Organix 10 Mid,21
+860,Organix 4,21
+861,Organix 4 Super G,21
+862,Organix 5,21
+863,Organix 7 (295),21
+864,Organix 7 (310),21
+865,Organix 8 315g,21
+866,Organix 9,21
+867,Organix V1 MP,21
+868,Organix V1 OS,21
+869,Organix V1 Pro Midplus,21
+870,Power Bridge 1,21
+871,Power Bridge 10,21
+872,Power Bridge 10 Mid,21
+873,Power Bridge 2,21
+874,Power Bridge 3,21
+875,Power Bridge 4,21
+876,Power Bridge 5,21
+877,Power Bridge 6 Attiva MP,21
+878,Power Bridge 7,21
+879,Power Bridge 8,21
+880,Power Bridge 8 315,21
+881,Power Bridge 9,21
+882,Power Bridge V1 Midplus,21
+883,Power Bridge V1 Oversize,21
+884,Quantum Scorcher,21
+885,Super G 1,21
+886,Super G 10 295,21
+887,Super G 10 325,21
+888,Super G 10 Mid (320g),21
+889,Super G 10 Mid (330g),21
+890,Super G 3,21
+891,Super G 5,21
+892,Super G 6,21
+893,Super G 7,21
+894,Super G 8 (300g),21
+895,Super G 8 (315g),21
+896,Super G 9,21
+897,Super G V1 Midplus,21
+898,Super G V1 Oversize,21
+899,Super G V1 Pro,21
+900,Team Tour,21
+901,Tour 10 V-Engine Mid,21
+902,Tour 9 V-Engine (18x20),21
+903,Tour Scorcher,21
+904,V-Cell 10 300g,21
+905,V-Cell 10 320g,21
+906,V-Cell 4,21
+907,V-Cell 6,21
+908,V-Cell 8 (285g),21
+909,V-Cell 8 (300g),21
+910,V-Cell 8 (315g),21
+911,V-Cell 9,21
+912,V-Cell V1 Pro,21
+913,V-Feel 1,21
+914,V-Feel 10 (300g),21
+915,V-Feel 10 (320g),21
+916,V-Feel 4,21
+917,V-Feel 5,21
+918,V-Feel 6,21
+919,V-Feel 8 285g,21
+920,V-Feel 8 300g,21
+921,V-Feel 8 315g,21
+922,V-Feel 9,21
+923,V-Feel V1 MP,21
+924,V-Feel V1 OS,21
+925,V-Feel V1 Pro,21
+926,V-Feel V8 Pro,21
+927,V-Sense 1,21
+928,V-Sense 10 295g,21
+929,V-Sense 10 325g,21
+930,V-Sense 10 Mid,21
+931,V-Sense 10 Tour,21
+932,V-Sense 2,21
+933,V-Sense 4,21
+934,V-Sense 5,21
+935,V-Sense 6,21
+936,V-Sense 8 285g,21
+937,V-Sense 8 300g,21
+938,V-Sense 8 315g,21
+939,V-Sense 9,21
+940,V-Sense V1 MP,21
+941,V-Sense V1 OS,21
+942,V-Sense V1 Pro,21
+943,V1 Classic,21
+944,Vostra V4,21
+945,Vostra V6,21
+946,Vostra V8 285g,21
+947,Vostra V8 300g,21
+948,Vostra V8 315g,21
+949,BLX Blade 98,22
+950,BLX Blade Lite,22
+951,BLX Blade Team,22
+952,BLX Blade Tour,22
+953,BLX Bold,22
+954,BLX Cierzo Two,22
+955,BLX Cirrus One,22
+956,BLX Coral Reef,22
+957,BLX Juice 100,22
+958,BLX Juice 108,22
+959,BLX Juice Pro,22
+960,BLX One,22
+961,BLX Pro Limited 110,22
+962,BLX Pro Lite,22
+963,BLX Pro Open,22
+964,BLX Pro Open (2012),22
+965,BLX Pro Staff Six.One 100,22
+966,BLX Pro Staff Six.One 90,22
+967,BLX Pro Staff Six.One 95,22
+968,BLX Pro Team FX,22
+969,BLX Pro Tour,22
+970,BLX Six-One 95 16x18,22
+971,BLX Six-One Lite,22
+972,BLX Six-One Tour,22
+973,BLX Six.One 95 16x18,22
+974,BLX Six.One 95 18x20,22
+975,BLX Six.One 95 18x20 (2012),22
+976,BLX Six.One Team,22
+977,BLX Six.One Team (2012),22
+978,BLX Steam 100,22
+979,BLX Stratus Three,22
+980,BLX Surge,22
+981,BLX Tempest Four,22
+982,BLX Tidal Force,22
+983,BLX Tidal Wave,22
+984,BLX Tour,22
+985,BLX Tour 2012,22
+986,BLX Tour Limited,22
+987,BLX Tour Lite,22
+988,Blade 100 V7,22
+989,Blade 100 v8,22
+990,Blade 100L,22
+991,Blade 104,22
+992,Blade 104 (2015),22
+993,Blade 104 / 2013,22
+994,Blade 104 V8,22
+995,Blade 104 v7,22
+996,Blade 18x20 v8,22
+997,Blade 93 / 2013,22
+998,Blade 98 (16x19),22
+999,Blade 98 (16x19) (2015),22
+1000,Blade 98 (16x19) / 2013,22
+1001,Blade 98 (16x19) CV,22
+1002,Blade 98 (18x20 ) (2015),22
+1003,Blade 98 (18x20),22
+1004,Blade 98 (18x20) / 2013,22
+1005,Blade 98 (18x20) CV,22
+1006,Blade 98 16x19 v6,22
+1007,Blade 98 16x19 v7 Reverse,22
+1008,Blade 98 16x19 v8,22
+1009,Blade 98S,22
+1010,Blade 98S (18x16) CV,22
+1011,Blade 98S (2015),22
+1012,Blade SW 104,22
+1013,Burn 100,22
+1014,Burn 100 Countervail,22
+1015,Burn 100 LS,22
+1016,Burn 100 LS (2017),22
+1017,Burn 100 LS CAMO,22
+1018,Burn 100 S,22
+1019,Burn 100 S Countervail,22
+1020,Burn 100 Team,22
+1021,Burn 100 Team (2017),22
+1022,Burn 100 ULS,22
+1023,Burn 100 ULS (2017),22
+1024,Burn 95,22
+1025,Burn 95 Countervail,22
+1026,Burn FST 95,22
+1027,Burn FST 99,22
+1028,Burn FST 99S,22
+1029,Clash 100,22
+1030,Clash 100 Pro Silver,22
+1031,Clash 100 Pro v2,22
+1032,Clash 100 Reverse,22
+1033,Clash 100 Silver,22
+1034,Clash 100 Tour,22
+1035,Clash 100 v2,22
+1036,Clash 100L,22
+1037,Clash 100L Silver,22
+1038,Clash 100S,22
+1039,Clash 108,22
+1040,Clash 98,22
+1041,Clash 98 v2,22
+1042,Envy 100 L,22
+1043,Envy 110 UL,22
+1044,Hyper Hammer 5.3 Stretch,22
+1045,Hyper Hammer 6.3 OS,22
+1046,Juice 100,22
+1047,Juice 100L,22
+1048,Juice 100S,22
+1049,Juice 100UL,22
+1050,Juice 108,22
+1051,K Factor Kobra Team FX,22
+1052,K Factor Kobra Tour,22
+1053,KBlade 98,22
+1054,KBlade Team 104,22
+1055,KBlade Tour,22
+1056,KBrave,22
+1057,KFive OS,22
+1058,KFour 105 MP,22
+1059,KFour 112 OS,22
+1060,KFour.FX,22
+1061,KFury,22
+1062,KOne,22
+1063,KOne.FX,22
+1064,KPro Open,22
+1065,KPro Staff 88,22
+1066,KPro Team.FX,22
+1067,KPro Tour,22
+1068,KSix-One 95 (16x18),22
+1069,KSix-One 95 (18x20),22
+1070,KSix-One Tour 90,22
+1071,KSix-One X,22
+1072,KSix-Two MP,22
+1073,KSting 105,22
+1074,KSurge,22
+1075,KThree OS,22
+1076,KThree.FX,22
+1077,KTour MP,22
+1078,KTour Team.FX,22
+1079,KZen MP,22
+1080,KZen Team,22
+1081,KZen Team.FX Orange,22
+1082,Labs Project Shift 99 300g,22
+1083,Labs Project Shift 99 315g,22
+1084,N Fury OS,22
+1085,Pro Open 100,22
+1086,Pro Staff 100L,22
+1087,Pro Staff 100LS,22
+1088,Pro Staff 6.0 85,22
+1089,Pro Staff 6.1 100 V13,22
+1090,Pro Staff 90,22
+1091,Pro Staff 95,22
+1092,Pro Staff 95S (2014),22
+1093,Pro Staff 95S (2015),22
+1094,Pro Staff 97,22
+1095,Pro Staff 97 (2016),22
+1096,Pro Staff 97 Countervail,22
+1097,Pro Staff 97 Countervail Black,22
+1098,Pro Staff 97 LS,22
+1099,Pro Staff 97 LS Black (2016),22
+1100,Pro Staff 97 RF Autograph,22
+1101,Pro Staff 97 v13,22
+1102,Pro Staff 97 v14,22
+1103,Pro Staff 97L,22
+1104,Pro Staff 97L Countervail Black,22
+1105,Pro Staff 97L Countervail CAMO,22
+1106,Pro Staff 97L v13,22
+1107,Pro Staff 97S,22
+1108,Pro Staff 97S (2016),22
+1109,Pro Staff RF97 Autograph (2016),22
+1110,Pro Staff RF97 Autograph 2018,22
+1111,Pro Staff RF97 v13,22
+1112,Pro Staff Six.One 100 v14,22
+1113,Pro Staff X v14,22
+1114,Shift 99,22
+1115,Shift 99 Pro,22
+1116,Six-One Team,22
+1117,Six.One 95 (16x18),22
+1118,Six.One 95 (18x20),22
+1119,Six.One 95L,22
+1120,Six.One 95S,22
+1121,Steam 105S,22
+1122,Steam 96,22
+1123,Steam 99,22
+1124,Steam 99LS,22
+1125,Steam 99S,22
+1126,Ultra 100,22
+1127,Ultra 100 Countervail,22
+1128,Ultra 100 v2,22
+1129,Ultra 100 v4,22
+1130,Ultra 100L,22
+1131,Ultra 100L CAMO,22
+1132,Ultra 100L v2,22
+1133,Ultra 100L v3,22
+1134,Ultra 100UL,22
+1135,Ultra 103S,22
+1136,Ultra 108,22
+1137,Ultra 95 Countervail,22
+1138,Ultra 97,22
+1139,Ultra Pro 16x19 v4,22
+1140,Ultra Pro 18x20 v4,22
+1141,Ultra Tour,22
+1142,W5 Divine Iris,22
+1143,n2 OS,22
+1144,n5 Force MP,22
+1145,nBlade OS,22
+1146,nPro Open MP,22
+1147,nPro Open X,22
+1148,nSix-Two MP,22
+1149,nSix-Two OS,22
+1150,nTour,22
+1151,nTour Two MP,22
+1152,Astrel 100,23
+1153,Astrel 115,23
+1154,E-Zone 100,23
+1155,E-Zone 107,23
+1156,E-Zone Lite,23
+1157,E-Zone Rally,23
+1158,E-Zone Team 102,23
+1159,E-Zone Team Plus 102,23
+1160,E-Zone Xi,23
+1161,E-Zone Xi 107,23
+1162,E-Zone Xi 115,23
+1163,E-Zone Xi 98,23
+1164,E-Zone Xi Lite,23
+1165,EZONE 100 (300g),23
+1166,EZONE 100 2022,23
+1167,EZONE 100 Naomi Osaka LE,23
+1168,EZONE 100+,23
+1169,EZONE 100+ (300g) Blue,23
+1170,EZONE 100+ 2022,23
+1171,EZONE 100L,23
+1172,EZONE 100L Naomi Osaka LE,23
+1173,EZONE 105,23
+1174,EZONE 108,23
+1175,EZONE 98 (305g),23
+1176,EZONE 98 2022,23
+1177,EZONE 98 Naomi Osaka LE,23
+1178,EZONE 98 Tour,23
+1179,EZONE 98 Tour 2022,23
+1180,EZONE 98+,23
+1181,EZONE 98+ (305g) Blue,23
+1182,EZONE 98+ 2022,23
+1183,EZONE 98L,23
+1184,EZONE Ace,23
+1185,EZONE Ai 100,23
+1186,EZONE Ai 98,23
+1187,EZONE Ai 98 Lite,23
+1188,EZONE Ai Feel,23
+1189,EZONE Ai Lite (Lime),23
+1190,EZone DR 100,23
+1191,EZone DR 98,23
+1192,Ezone 100 (285g),23
+1193,Ezone 100 (300g),23
+1194,Ezone 98 (285g),23
+1195,Ezone 98 (305g),23
+1196,Ezone DR 100+ Blue,23
+1197,Ezone DR 98+ Blue,23
+1198,Ezone Lite,23
+1199,Percept 100,23
+1200,Percept 100D,23
+1201,Percept 97,23
+1202,Percept 97D,23
+1203,Percept 97H,23
+1204,RDS 001 MP,23
+1205,RDS 001 Mid,23
+1206,RDS 002,23
+1207,RDS 002 Tour,23
+1208,RDS 003,23
+1209,RDiS 100 MP,23
+1210,RDiS 100 Mid,23
+1211,RDiS 200,23
+1212,RDiS 300 MP,23
+1213,RQ 7 OS,23
+1214,RQ IS 2 Tour,23
+1215,RQ Speed 30 MP,23
+1216,RQ iS 1 Tour,23
+1217,RQ iS 1 Tour XL 100,23
+1218,RQ iS 1 Tour XL 95,23
+1219,RQ iS 1 Tour XL 95 Lite,23
+1220,RQS 11 MP,23
+1221,RQS 22,23
+1222,RQS 33,23
+1223,RQS 55,23
+1224,Regna 100,23
+1225,Regna 98,23
+1226,S-Fit 1,23
+1227,S-Fit 1 Lite,23
+1228,S-Fit 3,23
+1229,S-Fit 5,23
+1230,V CORE SV 100,23
+1231,V CORE SV 100 Lite,23
+1232,V CORE SV 95,23
+1233,V CORE SV 98,23
+1234,V CORE SV 98 Lite,23
+1235,V Core 100 S,23
+1236,V Core 95 D,23
+1237,V Core 98 D,23
+1238,V Core 98 Team,23
+1239,VCORE 100,23
+1240,VCORE 100 (300),23
+1241,VCORE 100 (300) Galaxy Black,23
+1242,VCORE 100 2023,23
+1243,VCORE 100+,23
+1244,VCORE 100+ (2021),23
+1245,VCORE 100+ 2023,23
+1246,VCORE 100L,23
+1247,VCORE 95,23
+1248,VCORE 95 (2018),23
+1249,VCORE 95 2023,23
+1250,VCORE 98,23
+1251,VCORE 98 (305),23
+1252,VCORE 98 (305) Galaxy Black,23
+1253,VCORE 98 2023,23
+1254,VCORE 98 Limited,23
+1255,VCORE 98 Tour 2023,23
+1256,VCORE 98+,23
+1257,VCORE 98+ (2021),23
+1258,VCORE 98+ 2023,23
+1259,VCORE 98L,23
+1260,VCORE Pro 100,23
+1261,VCORE Pro 100 (300),23
+1262,VCORE Pro 100 (300),23
+1263,VCORE Pro 97,23
+1264,VCORE Pro 97 (310),23
+1265,VCORE Pro 97 (310) (2018),23
+1266,VCORE Pro 97 (330),23
+1267,VCORE Pro 97 (330),23
+1268,VCORE Pro 97D,23
+1269,VCORE Pro 97H,23
+1270,VCORE Pro 97HD ((18x20)),23
+1271,VCORE Tour 89,23
+1272,VCORE Tour 97,23
+1273,VCORE Tour 97 (310g),23
+1274,VCORE Tour G (310),23
+1275,VCORE Tour G 330 (Wawrinka),23
+1276,VCORE Xi 100,23
+1277,VCORE Xi 98,23
+1278,VCore SV 100+,23
+1279,VCore SV 98+,23
+1280,Vcore Duel G 100,23
+1281,Vcore Duel G 97 (310g),23
+1282,Vcore Duel G 97 (330g),23
+1283,Vcore Si 100,23
+1284,Vcore Si 98,23
+1285,Vcore Tour F 93,23
+1286,Vcore Tour F 97 (290),23
+1287,Vcore Tour F 97 (310),23
+1288,Vcore Tour F 97 (310),23
+1289,None,24
+1290,RipStick 300,16
+1291,Spark SUPRM,9
+1292,Spark COMP,9
+1293,Spark ELITE,9
+1294,Spark TOUR,9
+1295,Energy XL,22
+1296,Blade 98 16x19 v9,22
+1297,Pro Staff Precision 103,22
+1298,Ultra Power RXT ,3
+1299,Ezone Feel,23
+1300,IG Challenge MP,9
+1301,Blade 98 16x19 v8 Noir,22
+1302,Speed XTR,9
+1303,O3 Hybrid Pink,16
+1304,Speed Pro 2023 Night,9
+1305,Blade 100UL v7,22
+1306,Graphene Touch Radical XTR,9
+1307,Ti. Radical Elite,9
+1308,V Core PRO 100L,23
+1309,NS Drive OS,3
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

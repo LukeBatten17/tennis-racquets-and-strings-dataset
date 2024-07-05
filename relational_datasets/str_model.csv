@@ -1,0 +1,779 @@
+model_id,model,brand_id,type_id
+0,Black Diamond 16,0,0
+1,Gut 2000 16,1,1
+2,Dynamite 17,2,2
+3,Dynamite Soft 17,2,2
+4,Dynamite Soft 18,2,2
+5,Dynamite WB 16,2,2
+6,Liberty 16,2,1
+7,MonoGut 16L,2,0
+8,MonoGut 17,2,0
+9,MonoGut ZX 16,2,2
+10,Synthetic Gut 16,2,1
+11,Addiction 16,3,1
+12,Addiction 17,3,1
+13,Attraction 16,3,2
+14,Ballistic Polymono 16,3,0
+15,Conquest 16,3,1
+16,Duralast 16,3,0
+17,Duralast 17,3,0
+18,FiberTour 16,3,1
+19,Hurricane Feel 16,3,0
+20,Hurricane Feel 17,3,0
+21,M7 16 (1.30),3,1
+22,Origin 16 (1.30),3,1
+23,Origin 17,3,1
+24,Pro Hurricane 16,3,0
+25,Pro Hurricane 17,3,0
+26,Pro Hurricane 18,3,0
+27,Pro Hurricane Tour 16,3,0
+28,Pro Hurricane Tour 17,3,0
+29,Revenge 16,3,0
+30,Revenge 17,3,0
+31,RPM Blast 15L (1.35),3,0
+32,RPM Blast 16,3,0
+33,RPM Blast 17/1.25,3,0
+34,RPM Blast 18 (1.20),3,0
+35,RPM Blast Orange 16 (1.30),3,0
+36,RPM Blast Rough 15L,3,0
+37,RPM Blast Rough 16,3,0
+38,RPM Blast Rough 17,3,0
+39,RPM Dual 16,3,0
+40,RPM Soft 16 (1.30),3,1
+41,RPM Team 16 Black,3,0
+42,RPM Team 17 (1.25),3,2
+43,SG SpiralTek 16,3,1
+44,SpiralTek 17,3,1
+45,Super Fine Play 16,3,1
+46,Synthetic Gut 16 (1.30),3,1
+47,Synthetic Gut 17 (1.25),3,1
+48,Tonic + Natural Gut 16,3,3
+49,VS Natural Team Gut 17 (1.25),3,3
+50,VS Natural ThermoGut 16 Touch,3,3
+51,VS Touch 15L (1.35),3,3
+52,Xalt 16 (1.30),3,1
+53,Xcel 16,3,1
+54,Xcel French Open Black 16,3,1
+55,Xcel Power 16,3,1
+56,Xcel Power 17,3,1
+57,Xcel Premium 17,3,1
+58,Bomber 16,4,0
+59,Bomber 17,4,0
+60,Bomber NYC 16 (1.28),4,0
+61,Bomber NYC 17 (1.23),4,0
+62,Pulse 16 (1.32),4,1
+63,Elite XT 16,5,0
+64,Elite XT 17,5,0
+65,Impulse 16 (1.32),5,1
+66,Impulse 17 (1.25),5,1
+67,Solstice Blace 17 (1.20),5,0
+68,Solstice Power 15L (1.35),5,0
+69,Solstice Power 16 (1.30),5,0
+70,Solstice Power 16L (1.25),5,0
+71,Solstice Power 17 (1.20),5,0
+72,Solstice Pro 15L (1.35),5,0
+73,Solstice Pro 16L (1.25),5,0
+74,Solstice Pro 16L (1.25),5,0
+75,666 (1.30),6,1
+76,Diablo (1.24),6,0
+77,Diablo (1.31),6,0
+78,Raptor 1.27,6,0
+79,Twice Dragon(1.30),6,0
+80,Twice Shark (1.25),6,0
+81,WTS 25 (1.25),6,0
+82,Black Widow 16,7,0
+83,Black Widow 17,7,0
+84,Black Widow 18 (1.21),7,0
+85,Comfort Poly 17,7,0
+86,Comfort Synthetic 16,7,1
+87,Comfort Synthetic 17,7,1
+88,DNA 16 (1.30),7,1
+89,DNA 17 (1.22),7,1
+90,Explosive 16,7,0
+91,Explosive 17 (1.26),7,0
+92,Explosive 18 (1.20),7,0
+93,Explosive Bite 17 (1.27),7,0
+94,Explosive Poly Max 16,7,2
+95,Explosive Speed 17 (1.25),7,0
+96,Explosive Synthetic 16,7,1
+97,Explosive Synthetic Gut 17,7,1
+98,Explosive Tour 16 (1.30),7,0
+99,Hexy Fiber 16,7,1
+100,Hexy Fiber 17,7,1
+101,Ice 16 (1.30),7,0
+102,Ice 17 (1.25),7,0
+103,Iconic All 17 (1.25),7,1
+104,Iconic Speed 17 (1.25),7,1
+105,Iconic Touch 17 (1.25),7,1
+106,Juice 16 (1.31),7,0
+107,Juice 17 (1.26),7,0
+108,M-Fil Tour 16,7,1
+109,Pearl 16 (1.30),7,1
+110,Pearl 17 (1.25),7,1
+111,S-Gut 16 (1.32),7,1
+112,S-Gut 17,7,2
+113,S-Gut 18 (1.19),7,1
+114,Silk 16 (1.30),7,1
+115,Silk 17,7,1
+116,Synthetic Gut 16,7,1
+117,Tour Performance 16,7,1
+118,X-Life Synthetic 15L,7,1
+119,Sweet 16,8,1
+120,Asterisk 16,9,1
+121,Asterisk Spin 16,9,1
+122,Asterisk Tour 16,9,2
+123,ESP 16,9,1
+124,FXT 16 (1.30),9,1
+125,FXT 17 (1.24),9,1
+126,Glide Cross String 16,9,1
+127,IO 17 (1.23),9,0
+128,IO 18 (1.18),9,0
+129,IO Soft 15L (1.40),9,0
+130,IO Soft 16 (1.28),9,0
+131,IO Soft 17 (1.23),9,0
+132,Jet 16L (1.28),9,0
+133,Live Wire 16,9,2
+134,Live Wire 17 (1.27),9,1
+135,Live Wire XP 16,9,2
+136,Live Wire XP 17 (1.27),9,1
+137,Marathon DPC 15 (1.40),9,1
+138,Marathon DPC 16 (1.32),9,1
+139,Monoblast 16,9,0
+140,Moto 16,9,0
+141,Moto 17 (1.24),9,0
+142,Moto Soft 16 (1.29),9,0
+143,Moto Soft 17 (1.24),9,0
+144,Ocho 16 (1.30),9,0
+145,Ocho 17 (1.25),9,0
+146,Ocho TNT 16 (1.30),9,1
+147,Ocho TNT 17 (1.25),9,1
+148,Ocho XP 16 (1.32),9,1
+149,Ocho XP 17 (1.27),9,1
+150,Poly Z 16,9,0
+151,Prodigy 16,9,1
+152,Professional 16,9,2
+153,Professional 17,9,1
+154,Professional 18 (1.22),9,1
+155,Professional Spin 16,9,2
+156,Revelation 16,9,2
+157,Revelation 17 (1.27),9,1
+158,RZR Rx 16,9,0
+159,RZR Rx 17,9,0
+160,Solace 16 (1.32),9,1
+161,Solace 17 (1.27),9,1
+162,Synthetic Gut 16,9,1
+163,Synthetic Gut 17 (1.25),9,1
+164,Synthetic Gut 17 W/wearguard (1.22),9,1
+165,Synthetic Gut 18 (1.18),9,1
+166,Synthtic Gut 15L W/wearguard (1.38),9,1
+167,TNT2 15L (1.40),9,1
+168,TNT2 16,9,1
+169,TNT2 17 (1.27),9,1
+170,TNT2 18 (1.17),9,1
+171,TNT2 Pro Plus 16,9,1
+172,TNT2 Pro Plus 17L (1.24),9,1
+173,TNT2 Rx 16,9,1
+174,TNT2 Rx 17 (1.25),9,1
+175,TNT2 Touch 16,9,1
+176,TNT2 Touch 17 (1.27),9,1
+177,TNT2 Tour 16 (1.32),9,1
+178,TNT2 Tour 17 (1.27),9,1
+179,WearGuard Synthetic Gut 16,9,1
+180,Zo Black Ice 17 (1.23),9,0
+181,Zo Black Ice 18 (1.18),9,0
+182,Zo Dart 17 (1.25),9,0
+183,Zo Ice 16,9,0
+184,Zo Magic 16,9,0
+185,Zo Power 16L,9,0
+186,Zo Tour 16,9,4
+187,Zo Tour 17 (1.25),9,0
+188,Zo Tour Rough 16,9,0
+189,Zo Twist 16,9,0
+190,Zo Verve 16 (1.32),9,0
+191,Zo Verve 17,9,0
+192,Black Magic 16 (1.29),10,0
+193,A.K. Control 16,11,1
+194,AK Control 17 (1.24),11,1
+195,AK Pro 16,11,1
+196,AK Pro 17,11,1
+197,AK Pro CX 16 (1.30),11,1
+198,AK Pro CX 17 (1.24),11,1
+199,AK Pro Spin 15L (1.38),11,1
+200,Compositemaster I 16,11,1
+201,Compositemaster II 16,11,1
+202,G-Tour 16 (1.30),11,0
+203,Lumina Spin 16L (1.26),11,0
+204,Multi CX 16 (1.30),11,1
+205,Multi CX 17 (1.24),11,1
+206,Nanoblend 17,11,1
+207,Nanocubic 16,11,1
+208,Nanosilver 17,11,1
+209,OG Sheep Micro 17,11,1
+210,OG Sheep Micro 18,11,1
+211,OG Sheep Micro Super 16L,11,1
+212,OG-Sheep Micro 16,11,1
+213,Poly Professional 16 (1.29),11,0
+214,Poly Professional 17 (1.24),11,0
+215,Polylon 16,11,0
+216,Polylon 17 (1.24),11,0
+217,Polylon Comfort 16,11,0
+218,Polylon PolyBreak 17 (1.24),11,0
+219,Polylon PolyBreak 18 (1.20),11,0
+220,Polylon Premium 16 (1.32),11,0
+221,Polylon Premium 16L (1.27),11,0
+222,Polylon SP 16 (1.30),11,0
+223,Polylon SP 17 (1.24),11,0
+224,Polymaster I 16,11,0
+225,Polymaster II 16,11,0
+226,Powermaster I 16,11,1
+227,Powermaster II 16,11,1
+228,Sidewinder 16 (1.31),11,0
+229,Sidewinder 17,11,0
+230,Tecflex 16 (1.30),11,1
+231,TecGut Remplir 16,11,2
+232,ETS 16,12,1
+233,ETS 17,12,1
+234,Fibergel Power 16,12,1
+235,Fibergel Power 17,12,1
+236,Fibergel Spin 16,12,1
+237,FXP 16,12,2
+238,FXP 17,12,1
+239,FXP Power 16,12,1
+240,FXP Power 17,12,1
+241,FXP Tour 16,12,2
+242,Hawk 16 (1.30),12,0
+243,Hawk 17 (1.25),12,0
+244,Hawk 18 (1.20),12,0
+245,Hawk Power 17 (1.25),12,0
+246,Hawk Rough 17,12,0
+247,Hawk Touch 18 (1.20),12,0
+248,Hawk Touch 19 (1.15),12,0
+249,Lynx 16 (1.30),12,0
+250,Lynx 17 (1.25),12,0
+251,Lynx 18 (1.20),12,0
+252,Lynx Touch 16g (1.30),12,0
+253,Lynx Tour 16 (1.30),12,0
+254,Lynx Tour 17 (1.25),12,0
+255,PerfectControl 16,12,5
+256,Reflex MLT 16 (1.30),12,1
+257,Reflex MLT 17 (1.25),12,1
+258,RIP Control 16,12,2
+259,Rip Control 17 (1.25),12,2
+260,RIP PerfectPower 16,12,2
+261,Sonic Pro 16,12,0
+262,Sonic Pro 17,12,0
+263,Sonic Pro Edge 16,12,0
+264,Synthetic Gut 16,12,1
+265,Synthetic Gut PPS 16,12,1
+266,Synthetic Gut PPS 17 (1.25),12,1
+267,Ultra Tour 16,12,0
+268,Ultratour 17,12,0
+269,Velocity MLT 17 (1.25),12,1
+270,Axon Mono 16L,13,0
+271,Axon Multi 16L,13,2
+272,Black Fire 17,13,0
+273,Control 16,13,2
+274,Control Classic 16,13,5
+275,Cream 17 (1.28),13,0
+276,Energetic 17,13,2
+277,Energetic Plus 16,13,2
+278,Professional Classic 17,13,5
+279,Pulse 16,13,0
+280,Pulse 17,13,0
+281,Pyramid 16,13,0
+282,V18 19 (1.12),13,0
+283,Black Shark 16 (1.30),14,0
+284,Black Shark 17 (1.25),14,0
+285,Competition 16/1.30,14,0
+286,Competition 17 (1.25),14,0
+287,Competition 17L (1.20),14,0
+288,Flash 16 (1.30),14,0
+289,Helix 16,14,0
+290,Helix 17,14,0
+291,Long Life 15,14,0
+292,Max Power 16 (1.30),14,0
+293,Max Power 17 (1.25),14,0
+294,Max Power 18 (1.20),14,0
+295,Max Power Rough 16 (1.30),14,0
+296,Max Power Rough 17 (1.25),14,0
+297,Max Power Rough 18 (1.20),14,0
+298,P2 16/1.30,14,0
+299,P2 17 (1.25),14,0
+300,P2 17L (1.20),14,0
+301,Pro Line Evolution 17 (1.25),14,0
+302,Pro Line I 1.30,14,0
+303,Pro Line I 17 (1.25),14,0
+304,Pro Line I 17L (1.20),14,0
+305,Pro Line I 18L (1.15),14,0
+306,Pro Line II 1.30,14,0
+307,Pro Line II 17 (1.25),14,0
+308,Pro Line II 17L (1.20),14,0
+309,Pro Line II 18 (1.15),14,0
+310,Pro Line X 16 (1.30),14,0
+311,Pro Line X 17 (1.25),14,0
+312,Spiky Shark 16,14,0
+313,Spiky Shark 17,14,0
+314,Super Smash 16/1.30,14,0
+315,Super Smash 17 (1.25),14,0
+316,Super Smash Spiky 1.20,14,0
+317,Super Smash Spiky 16/1.30,14,0
+318,Super Smash Spiky 17 (1.25),14,0
+319,Touch Multifibre 16,14,1
+320,Touch Multifibre 17 (1.25),14,1
+321,Touch Turbo 1.30,14,0
+322,Touch Turbo 16L (1.275),14,0
+323,Touch Turbo 17 (1.25),14,0
+324,Xplosive Speed 1.25,14,0
+325,Xplosive Speed 1.30,14,0
+326,Armour Pro 16/1.30,15,3
+327,Excellerator 16/1.30,15,1
+328,Hardcore 16/1.30,15,0
+329,K-Boom 16/1.30,15,0
+330,K-Boom 18 (1.20),15,0
+331,Kicker 16,15,1
+332,Legend 16 Uncoated,15,3
+333,Legend 17 (1.25),15,3
+334,Scorcher 16/1.30,15,1
+335,Scorcher 17 (1.27),15,1
+336,Synthetic Gut 16,15,1
+337,Venom 16/1.30,15,1
+338,1200 16 (1.30),16,1
+339,JB Tour 100 17g (1.25),16,0
+340,Native Tour 17 (1.25),16,0
+341,Supernatural Gut Pro Stock 16,16,1
+342,Supreme 2.0 16 (1.30),16,2
+343,Supreme 2.0 17 (1.25),16,2
+344,Vorso 16 (1.28),16,0
+345,Vorso 17 (1.23),16,0
+346,Plus Control 16,17,0
+347,Premium 3S 16L (1.25),18,0
+348,Premium 4S 16L (1.25),18,0
+349,Premium 5S 16L (1.25),18,0
+350,Premium OS 17 (1.23),18,0
+351,Premium Pro OS 16L,18,0
+352,4G 16 (1.30),19,0
+353,4G 16L (1.25),19,0
+354,4G Rough 16L,19,0
+355,4G S 15,19,0
+356,4G Soft 1.25,19,0
+357,Adrenaline 16,19,0
+358,Adrenaline 16L/1.25,19,0
+359,Adrenaline 17/1.20,19,0
+360,Adrenaline Rough 16L/1.25,19,0
+361,ALU Power 125/16L,19,0
+362,ALU Power Feel 18/1.20,19,0
+363,ALU Power Rough 16L (1.25),19,0
+364,Alu Power Soft 1.25,19,0
+365,Alu Power Vibe 16 (1.25),19,0
+366,Big Banger Ace 18 (1.12),19,0
+367,Big Banger ALU Power Fluoro 17,19,0
+368,Big Banger ALU Power Spin 127/16,19,0
+369,Big Banger Original 130/16,19,0
+370,Big Banger Rough 130/16,19,0
+371,Big Banger Timo 17 (1.22),19,0
+372,Big Banger TiMO 17L (1.17),19,0
+373,Big Banger Timo 18 (1.10),19,0
+374,Big Banger XP 125/16L,19,0
+375,Big Banger XP 15L (1.38),19,0
+376,ECO Power 17 (1.25),19,0
+377,Element 1.30,19,0
+378,Element 16L (1.25),19,0
+379,Element Rough 16 (1.30),19,0
+380,LXN Smart 16 (1.30),19,0
+381,LXN Smart 16L (1.25),19,0
+382,M2 Plus 130/16,19,0
+383,M2 Pro 125/16,19,0
+384,Monotec Super Poly 1.25/16L,19,0
+385,Monotec Supersense 16L/1.25,19,0
+386,Monotec Zolo 125/16,19,0
+387,Monotec Zolo 15L,19,0
+388,Natural Gut 1.25,19,3
+389,Savage 16/1.27,19,0
+390,Comfort Poly 16,20,0
+391,Comfort Synthetic 16,20,1
+392,Power Poly 17,20,0
+393,Co.-Focus 16L,21,0
+394,Co-Focus 17L (1.18),21,0
+395,Focus Evo 16,21,0
+396,Focus Evo 17,21,0
+397,Focus Hex 17L (1.18),21,0
+398,Focus Hex Soft  17 (1.25),21,0
+399,Focus Hex Soft 17L (1.20),21,0
+400,Focus-Hex +38 16L (1.25),21,0
+401,Focus-Hex 16 (1.23),21,0
+402,Focus-Hex 16 (1.27),21,0
+403,Hepta-Twist 16,21,0
+404,Hepta-Twist 17,21,0
+405,Carbon NRG 16,22,0
+406,Carbon Tour 17 (1.25),22,0
+407,ATP Poly Power Pro 16L,23,0
+408,Classic Natural Gut 16,23,3
+409,PMX 16L,23,1
+410,PMX 17,23,1
+411,Poly Force 16L,23,0
+412,Poly Force 17,23,0
+413,Poly Force Xtreme 16L,23,0
+414,Poly Power Pro 16 (1.30),23,0
+415,Poly Power Pro 16L (1.25),23,0
+416,Power Line 16L,23,1
+417,Power Line 17,23,1
+418,Power Twist 16L,23,1
+419,Premium Power X 16L,23,1
+420,Prime Gut Orange Bull 16 (1.30),23,3
+421,Prime Gut Orange Bull 16L (1.25),23,3
+422,Prime Natural Gut 16,23,3
+423,Prime Natural Gut 16L,23,3
+424,Tough Gut 16,23,3
+425,Tough Gut 16L,23,3
+426,X Force 16L (1.29),23,0
+427,X Force 17,23,0
+428,X Force 18,23,0
+429,XCite 16 (1.30),23,0
+430,XCite 16L (1.25),23,0
+431,Classic 16 (1.30),24,0
+432,Classic 16L (1.25),24,0
+433,Classic 17 (1.20),24,0
+434,Energy 16 (1.30),24,0
+435,Energy 16L (1.25),24,0
+436,Energy 17 (1.20),24,0
+437,Strike 16 (1.30),24,0
+438,Strike 16L (1.25),24,0
+439,Turbo 16 (1.30),24,0
+440,Turbo 16L (1.25),24,0
+441,Black Venom 16 (1.30),25,0
+442,Black Venom 16L (1.25),25,0
+443,Black Venom Rough 16L (1.25),25,0
+444,Cobra 17/1.20,25,0
+445,Hexablade 16L (1.25),25,0
+446,Hexablade 17L (1.18),25,0
+447,Hightec Premium 16/1.30,25,0
+448,Hightec Premium 16L,25,0
+449,Hightec Premium 17,25,0
+450,Panthera 16 (1.30),25,0
+451,Poly Hightec 16/1.30,25,0
+452,Poly Hightec 16L,25,0
+453,Poly Hightec 17,25,0
+454,Poly Hightec 18,25,0
+455,TCS 16/1.30,25,0
+456,TCS 16L,25,0
+457,TCS 17,25,0
+458,TCS 18 (1.15),25,0
+459,TCS Rapid 16L/1.25,25,0
+460,Viper 16L/1.25,25,0
+461,Viper 17/1.20,25,0
+462,Beast XP 16,26,0
+463,Diablo Prism 17,26,0
+464,Lightning Pro 16 (1.30),26,1
+465,Lightning XX 16,26,1
+466,Lightning XX 17,26,1
+467,Perfection 16 (1.30),26,1
+468,Poly EXP 17,26,0
+469,Poly Spin 3D,26,0
+470,Premier Control 15,26,1
+471,Premier Control 15L,26,1
+472,Premier Control 16,26,1
+473,Premier Control 17,26,1
+474,Premier LT 17,26,1
+475,Premier LT 18,26,1
+476,Premier Power 16,26,1
+477,Premier Power 17,26,1
+478,Premier Power 18,26,1
+479,Premier Touch 15L,26,1
+480,Premier Touch 16,26,1
+481,Premier Touch 17,26,1
+482,Premier W/ Softflex 17,26,1
+483,Premier W/Softflex 16,26,1
+484,Recoil 16,26,1
+485,Syn Gut Original 16,26,1
+486,Syn Gut Original 17,26,1
+487,Synthetic Gut 16 Duraflex,26,1
+488,Synthetic Gut 17 Duraflex,26,1
+489,Synthetic Gut 18 Duraflex,26,1
+490,Synthetic Gut Multifilament 16,26,1
+491,Synthetic Gut Multifilament 17,26,1
+492,Topspin Plus 16,26,1
+493,Topspin W/ Duraflex 15L,26,1
+494,Tour 16,26,0
+495,Tour 17,26,0
+496,Tour XC 15L,26,0
+497,Tour XC 16L,26,0
+498,Tour XC 17L,26,0
+499,Tour XP 15L,26,0
+500,Tour XP 16,26,0
+501,Tour XP 17 (1.25),26,0
+502,Tour XR 15L (1.35),26,0
+503,Tour XR 16 (1.30),26,0
+504,Tour XR 17 (1.25),26,0
+505,Tour XS 1.35,26,0
+506,Tour XS 16,26,0
+507,Tour XT 18,26,0
+508,Tournament Nylon 15L,26,1
+509,Tournament Poly 16,26,0
+510,Tournament Poly 17,26,0
+511,Twisted 16L,26,0
+512,Vortex 16 (1.30),26,0
+513,RS Lyon 17,27,0
+514,RS Lyon 17L (1.20),27,0
+515,Firestorm 1.25,28,0
+516,Firestorm 16 (1.30),28,0
+517,Hyperion 16,28,0
+518,Hyperion 17 (1.24),28,0
+519,Hyperion 18 (1.18),28,0
+520,Plasma HEXtreme 16 (1.30),28,0
+521,Plasma HEXtreme 16L/1.25,28,0
+522,Poly Megaforce 16,28,0
+523,Poly Megaforce 17 (1.19),28,0
+524,Poly Plasma 17 (1.23),28,0
+525,Poly Speed Spin 1.28,28,0
+526,Poly-Plasma 16L,28,0
+527,Poly-Plasma 17L (1.18),28,0
+528,Poly-Plasma Pure 16L,28,0
+529,Poly-Plasma Pure 17 (1.23),28,0
+530,Poly-Plasma Pure 17L (1.18),28,0
+531,Tornado 16,28,0
+532,Tornado 17 (1.23),28,0
+533,Tornado 18 (1.17),28,0
+534,X-Perience 17 (1.24),28,0
+535,Yellow Jacket 17g (1.22),28,0
+536,Barb Wire 16,29,0
+537,Barb Wire 16L (1.25),29,0
+538,Barb Wire 17 (1.20),29,0
+539,Confidential 16 (1.30),29,0
+540,Hyper-G 16,29,0
+541,Hyper-G 16 Round (1.30),29,0
+542,Hyper-G 16L (1.25),29,0
+543,Hyper-G 17 (1.20),29,0
+544,Hyper-G 18 (1.15),29,0
+545,Hyper-G-Soft 16L (1.25),29,0
+546,Outlast 16,29,0
+547,Outlast 16L (1.25),29,0
+548,Outlast 17,29,0
+549,Outlast 18 (1.15),29,0
+550,Revolution 16,29,0
+551,Revolution 16L (1.25),29,0
+552,Revolution 17,29,0
+553,Revolution 18 (1.16),29,0
+554,Tour Bite 15L (1.35),29,0
+555,Tour Bite 16,29,0
+556,Tour Bite 16 Soft,29,0
+557,Tour Bite 16L (1.25),29,0
+558,Tour Bite 17,29,0
+559,Tour Bite 18 (1.15),29,0
+560,Tour Bite 19 (1.10),29,0
+561,Tour Bite 20 (1.05),29,0
+562,Tour Bite Diamond Rough 16 (1.30),29,0
+563,Tour Bite Diamond Rough 16L (1.25),29,0
+564,Tour Bite Diamond Rough 17 (1.20),29,0
+565,Tour Bite Soft 16L (1.25),29,0
+566,Tour Bite Soft 17 (1.20),29,0
+567,Tour Bite Soft 18 (1.15),29,0
+568,Vanquish 16,29,1
+569,Vanquish 17 (1.20),29,1
+570,X-Natural 16 (1.30),29,1
+571,X-Natural 17 (1.20),29,1
+572,Tour Players V3 17 (1.20),30,0
+573,Nikita Original 1.25,31,0
+574,Nikita Soft 16L,31,0
+575,Pure Control V8 17,31,0
+576,Viper V2 Rough 16L,31,0
+577,VooDoo Tour V9 17,31,2
+578,Black Code 15L (1.32),32,0
+579,Black Code 16,32,0
+580,Black Code 17,32,0
+581,Black Code 18,32,0
+582,Black Code 4S 16 (1.30),32,0
+583,Black Code 4S 17 (1.25),32,0
+584,Black Code 4S 18 (1.20),32,0
+585,Duramix HD 16,32,2
+586,Duramix HD 17,32,2
+587,E-Matrix 16,32,2
+588,E-Matrix 17,32,1
+589,HDX Tour 16 (1.30),32,2
+590,HDX Tour 17 (1.24),32,2
+591,Ice Code 16 (1.30),32,0
+592,Multi-Feel 16,32,2
+593,Multifeel 16 Black (1.30),32,2
+594,Multi-Feel 17 (1.25),32,2
+595,NRG2 16,32,1
+596,NRG2 17/1.24,32,1
+597,NRG2 18 (1.18),32,2
+598,Polyspin 16L,32,0
+599,Pro Mix 16,32,2
+600,Pro Mix 17,32,2
+601,Pro Red Code 16,32,0
+602,Pro Red Code 17,32,0
+603,Pro Red Code 18,32,0
+604,Pro Red Code Wax 17,32,0
+605,Razor Code 16 (1.30),32,0
+606,Razor Code 17 (1.25),32,0
+607,Razor Code 18 (1.20),32,0
+608,Razor Soft 17 (1.25),32,0
+609,Ruff Code 16 (1.30),32,0
+610,Ruff Code 17 (1.25),32,0
+611,TGV 16,32,2
+612,TGV 17/1.25,32,2
+613,Triax 16 (1.33),32,2
+614,X-Code 16,32,0
+615,X-One Biphase 16,32,2
+616,X-One Biphase 17,32,2
+617,X-One Biphase 18,32,1
+618,XR3 16,32,2
+619,XR3 17,32,2
+620,Leoina 77 (1.30),33,1
+621,Cyber Blue 16,34,0
+622,Cyber Blue 17,34,0
+623,Cyber Blue 17L (1.20),34,0
+624,Cyber Delta 17 (1.26),34,0
+625,Cyber Flash 16,34,0
+626,Cyber Flash 17,34,0
+627,Cyber Flash 17L,34,0
+628,Cyber Whirl 17 (1.24),34,0
+629,Big Hitter 16,35,0
+630,Big HItter Black 7 16 (1.25),35,0
+631,Big Hitter Black 7 17,35,0
+632,Big Hitter Blue 16,35,0
+633,Big Hitter Blue 17,35,0
+634,Big Hitter Blue Rough 16,35,0
+635,Big Hitter Blue Rough 17,35,0
+636,Big HItter Silver 16,35,0
+637,Big Hitter Silver 17,35,0
+638,Big Hitter Silver 7 Tour 16 (1.30),35,0
+639,Big Hitter Silver Rough 16,35,0
+640,Big Hitter Silver Rough 17,35,0
+641,Black Zone 16,35,0
+642,Black Zone 17,35,0
+643,Irradiated 16,35,1
+644,Irradiated 17,35,1
+645,Quasi Gut 17,35,1
+646,Quasi-Gut 16,35,1
+647,Quasi-Gut Armor 16,35,2
+648,Quasi-Gut Armor 17,35,2
+649,Synthetic Gut Armor 16,35,2
+650,Synthetic Gut Armor 17,35,2
+651,Cyclone 16,36,0
+652,Cyclone 17,36,0
+653,Cyclone 18,36,0
+654,Cyclone 18L (1.15),36,0
+655,Cyclone 19 (1.10),36,0
+656,Cyclone Tour 16 (1.30),36,0
+657,Cyclone Tour 17 (1.25),36,0
+658,Cyclone Tour 18 (1.20),36,0
+659,Gripper 16,36,1
+660,Gripper 17,36,1
+661,Power-Fiber II 16,36,1
+662,Power-Fiber II 17,36,1
+663,Power-Fiber II 18,36,1
+664,Synthetic Gut 16,36,1
+665,Synthetic Gut 17,36,1
+666,V-Pro 16,36,0
+667,V-Pro 17,36,0
+668,V-Pro 18,36,0
+669,V-Square 16 (1.30),36,0
+670,V-Star 16 (1.30),36,0
+671,V-Star 18 (1.20),36,0
+672,V-Star 18L (1.15),36,0
+673,V-Star 19 (1.10),36,0
+674,V-Torque 16,36,0
+675,V-Torque 18 (1.18),36,0
+676,V-Torque Tour 16 (1.30),36,0
+677,6 Star 16 (1.30),37,1
+678,Black 5 Edge 17 (1.24),37,0
+679,Blue Rock N Power,37,0
+680,Explosiv 1.30,37,1
+681,MatchPower 1.25,37,0
+682,Mosquito Bite 18 (1.16),37,0
+683,Red Ghost  17L (1.18),37,0
+684,Scorpion 1.22,37,0
+685,Scorpion 1.33,37,0
+686,Scorpion 16L (1.28),37,0
+687,Silverstring 1.25,37,0
+688,Silverstring 120,37,0
+689,Turbotwist 17 (1.24),37,0
+690,Turbotwist 17L (1.18),37,0
+691,Ultra Cable 17 (1.23),37,0
+692,Enduro Gold 16,38,0
+693,Enduro Mono 16L,38,0
+694,Enduro Pro 16,38,0
+695,Enduro Pro 17 (1.25),38,2
+696,Enduro Tour 16,38,0
+697,Enduro Tour 17,38,0
+698,Enduro Tour 18,38,0
+699,Extreme 16 Synthetic Gut,38,1
+700,Hollow Core 16,38,1
+701,Hollow Core Pro 16,38,1
+702,Hollow Core Pro 17,38,1
+703,K-Gut 16,38,1
+704,K-Gut Pro 16,38,1
+705,Natural Gut 16,38,3
+706,Natural Gut 16 (1.30),38,3
+707,Natural Gut 17,38,3
+708,NXT 15L (1.35),38,1
+709,NXT 16,38,1
+710,NXT 17,38,1
+711,NXT Control 16 (1.32),38,2
+712,NXT Duramax 15 (1.40),38,1
+713,NXT Duramax 16 (1.32),38,1
+714,NXT Max 15L (1.35),38,1
+715,NXT Max 16,38,1
+716,NXT OS,38,1
+717,NXT Power 17 (1.26),38,1
+718,NXT Tour 16,38,1
+719,NXT Tour 17,38,1
+720,Optimus 16 (1.30),38,1
+721,Reaction 16,38,1
+722,Red Alert 16,38,1
+723,Revolve 15 (1.35),38,0
+724,Revolve 16 (1.30),38,0
+725,Revolve 17 (1.25),38,0
+726,Revolve Spin 16,38,0
+727,Ripspin 15,38,0
+728,Ripspin 16,38,0
+729,Ripspin 17,38,0
+730,Sensation 15 (1.35),38,1
+731,Sensation 16,38,1
+732,Sensation 17,38,1
+733,Sensation Control 16 (1.30),38,1
+734,Sensation Supreme 16,38,1
+735,SGX 16,38,1
+736,Shock Shield 16,38,1
+737,Spin Cycle 16L,38,0
+738,Stamina 16,38,1
+739,Synthetic Gut Control 17 (1.25),38,1
+740,Synthetic Gut Extreme 17,38,1
+741,Synthetic Gut Power 16 (1.30),38,1
+742,Synthetic Gut Power 17 (1.25),38,1
+743,Mono Preme 16 (1.30),39,1
+744,Poly Tour 130/16,39,0
+745,Poly Tour Air 16L,39,0
+746,Poly Tour Drive 16L (1.25),39,0
+747,Poly Tour Fire 16L (1.25),39,0
+748,Poly Tour HS 16 (1.30),39,0
+749,Poly Tour HS 16L (1.25),39,0
+750,Poly Tour Pro 17 (1.20),39,0
+751,Poly Tour Pro Yellow 16 (1.30),39,0
+752,Poly Tour Pro Yellow 16L (1.25),39,0
+753,Poly Tour Spin 16L (1.25),39,0
+754,Poly Tour Spin G 1.25,39,0
+755,Poly Tour Strike 16L (1.25),39,0
+756,Poly Tour Tough 16L,39,0
+757,PolyTour REV 16 (1.30),39,0
+758,Polytour Rev 16L (1.25),39,0
+759,Rexis 16 (1.30),39,1
+760,Rexis Comfort 16L (1.25),39,1
+761,Rexis Speed 16L (1.25),39,1
+762,Tour Super 850 16 (1.30),39,1
+763,Tour Super Pro 850 16 (1.32),39,1
+764,Tournament 50 16L,39,1
+765,Tournament 80 Spin 15L-16,39,4
+766,Quadro Twist 16L,40,0
+768,None,41,0
+769,Synthetic Gut 17ga,32,4
+770,Hyper-G Soft 18ga,29,0
+771,Confidential 17ga,29,0
+772,Solstice Power 18ga,5,4
+773,Alu power 17ga,19,0
+774,Poly Tour Rev 17ga,39,0
+775,Hawk Touch 17ga,12,0
+776,Crossfire 18,2,4
+777,Crossfire Plus,2,4
+778,Trionic 18ga,10,0
