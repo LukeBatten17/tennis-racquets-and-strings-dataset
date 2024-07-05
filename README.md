@@ -15,8 +15,8 @@ Both parts are provided in CSV format.
 
 | Column Name     | Description                     |
 |-----------------|---------------------------------|
-| **Racquet Brands** | The manufacturer of the racquet.   |
-| **Racquet Models** | The model name of the racquet.     |
+| **racquet_brands** | The manufacturer of the racquet.   |
+| **racquet_models** | The model name of the racquet.     |
 
 ### Strings
 
