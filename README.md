@@ -13,14 +13,14 @@ Both parts are provided in CSV format.
 
 ### Racquets
 
-| Column Name     | Description                     |
+|      | Description                     |
 |-----------------|---------------------------------|
 | **racquet_brands** | The manufacturer of the racquet.   |
 | **racquet_models** | The model name of the racquet.     |
 
 ### Strings
 
-| Column Name  | Description                            |
+|   | Description                            |
 |--------------|----------------------------------------|
 | **string_brand** | The manufacturer of the string.          |
 | **string_model** | The model name of the string.            |
